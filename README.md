@@ -8,7 +8,7 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Em iu àa!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -23,7 +23,7 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Rep ibox nào.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'iu anhk',
     messLink: 'http://www.facebook.com/chi.thinh11205.com'
 }
 ```
